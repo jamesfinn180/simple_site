@@ -1,3 +1,4 @@
 function alertMessage() {
-	alert("Hello World");
+	alert("Hello");
+	alert("How are you today?");
 }
