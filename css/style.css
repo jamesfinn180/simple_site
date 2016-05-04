@@ -28,3 +28,7 @@ button:hover {
 	font-size:38px; padding:4px 30px;
 	background:#383737;
 }
+
+.sky-blue {
+	background:skyblue !important; 
+}
