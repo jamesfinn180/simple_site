@@ -4,5 +4,5 @@ function alertMessage() {
 }
 
 function changeColour() {
-	document.getElementById('bd').classList.toggle("sky-blue");
+	document.getElementById('bd').classList.toggle("purple-col");
 }
