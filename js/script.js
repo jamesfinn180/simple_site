@@ -1,5 +1,5 @@
 function alertMessage() {
-	alert("Hello");
+	alert("Hello there!");
 	alert("How are you today?");
 }
 
